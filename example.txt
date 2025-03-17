@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "year": "2024",
+        "category": "Motivation",
+        "read": true
+    }
+]
